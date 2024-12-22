@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - liavyona
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - gofireflyio/aiac
+  - cyberark/conjur
+  - liavyona/lambda-eks-integration
+  - liavyona/vaccinations-graph
