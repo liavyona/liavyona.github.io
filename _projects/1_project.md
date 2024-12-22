@@ -32,15 +32,6 @@ AIaC represents a significant advancement in infrastructure automation, offering
 - Best practices integration
 - Real-time code generation
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/aiac-workflow.jpg" title="AIaC Workflow" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The AIaC workflow: from natural language input to generated infrastructure code.
-</div>
-
 ## Technical Stack
 
 The project combines cutting-edge technologies:
@@ -81,16 +72,4 @@ spec:
 ```
 {% endraw %}
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/aiac-results.jpg" title="AIaC Results" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/aiac-stats.jpg" title="AIaC Statistics" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Left: Example results from AIaC showing various infrastructure configurations. Right: Usage statistics and accuracy metrics.
-</div>
-
-The project was developed between December 2022 and March 2023, focusing on making infrastructure code generation more accessible and reliable through AI technology.
+The project was developed from December 2022, focusing on making infrastructure code generation more accessible and reliable through AI technology.
