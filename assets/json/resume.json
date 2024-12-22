@@ -1,36 +1,35 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Liav Yona",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "liavyona09@gmail.com",
+    "phone": "(+972) 52-299-4528",
+    "url": "https://liavyona.github.io"
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Rienes 29 Apt. 3",
+      "postalCode": "6346115",
+      "city": "Tel Aviv",
+      "countryCode": "IL",
+      "region": "Central"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "LiavYona",
+        "url": "https://x.com/LiavYona"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Raven",
+      "position": "Founding Engineer",
+      "url": "https://raven.io/",
+      "startDate": "2024-03-27",
+      "summary": "Working on an ADR solution that helps security teams discover their entire code vulnerability footprint, identify executed parts, and prevent exploitation in real-time using a policy engine across Multi-Cloud and Kubernetes clusters. Driving the journey from idea to product by shaping system design, event-driven architecture, scalable infrastructure, microservices development, and application code implementation.",
+      "highlights": ["Cyber"]
     }
   ],
   "volunteer": [
