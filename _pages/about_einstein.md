@@ -1,5 +1,47 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Software Engineer with extensive experience in cloud computing, cybersecurity, and team leadership. Currently, I serve as a Founding Engineer at [Raven](https://raven.io/), where I work on developing an ADR solution for security teams.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Professional Journey
+
+Previously, I was a Founding Engineer and Engineering Team Lead at [Firefly](https://firefly.ai/), where I led a team of up to 12 developers and drove the development of a cloud Asset Management solution. Before that, I worked at [CyberArk](https://cyberark.com/) on the OSS application Conjur, and served in Unit 8200 as an Engineering Team Lead and Software Engineer.
+
+## Expertise
+
+My core competencies include:
+- Software Engineering & Architecture
+- Team Management
+- Cloud Computing
+- DevOps
+- Cybersecurity
+
+## Publications
+
+I regularly share my technical insights through articles and blog posts:
+- [The Great Lambda Migration to Kubernetes Jobs](https://www.infoq.com/articles/lambda-migration-k8s-jobs/) (InfoQ, 2023)
+- [Building with Open Policy Agent (OPA)](https://dzone.com/articles/building-with-open-policy-agent-opa-for-better-pol) (DevZone, 2022)
+- [Various technical articles on Medium](https://liavyona09.medium.com/)
+
+## Contact
+
+Feel free to reach out to me:
+- Email: [liavyona09@gmail.com](mailto:liavyona09@gmail.com)
+- Phone: (+972) 52-299-4528
+- Location: Tel Aviv, Israel
+- Twitter: [@LiavYona](https://x.com/LiavYona)
+
+## Languages
+
+- Hebrew (Native speaker)
+- English (Fluent)
+- Spanish (Intermediate)
+
+## Interests
+
+When I'm not coding, I enjoy:
+- Football
+- Running
+- Gymnastics
+- Weightlifting
+
+You can find my complete list of publications on my [publications page](/publications/) and more details about my projects on my [website](https://liavyona.github.io).
