@@ -180,8 +180,13 @@
   ],
   "references": [
     {
+      "name": "Shahar Glazner - Engineering Team Lead at Unit 8200",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "I had the privilege of managing Liav for over two years, and I can confidently say he is one of the most talented individuals I've worked with—an absolute 10/10. Liav is the kind of teammate you'd want on your side any day of the week. He was a key player in the team, consistently going above and beyond in his contributions. From writing high-quality code to deploying it in production and ensuring everything ran smoothly, Liav demonstrated exceptional skill, ownership, and reliability at every step. It’s rare to find someone with his combination of technical expertise, work ethic, and dedication. Liav is, without a doubt, top talent and a true asset to any team."
+    },
+    {
       "name": "Avi Kavas - R&D Group Manager at CyberArk",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-thumbtack",
       "reference": "I had the pleasure of working with Liav at CyberArk. Liav is a versatile developer who can dive into any new technology and complex architecture thoroughly and very quickly. Liav is one of the most productive developers I worked with. He can deliver significant new features and product enhancements at an amazing speed. Liav is passionate not only about his tasks but also about the success of his team. He constantly drives improvements in many areas including pushing new technologies, new architectures or even improving inefficiencies in the development process. Liav is a team player and loves assisting anyone who needs his help."
     },
     {
