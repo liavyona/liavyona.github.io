@@ -202,7 +202,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - assets/img/prof_pic.jpg
 keep_files:
   - CNAME
   - .nojekyll
