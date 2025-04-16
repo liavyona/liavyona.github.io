@@ -18,6 +18,7 @@ My core competencies include:
 ## Publications
 
 I regularly share my technical insights through articles and blog posts:
+- [MCP Servers — And How to Build Them With Go](https://liavyona09.medium.com/mcp-servers-and-how-to-build-them-with-go-11f9aafd8131) (Medium, 2025)
 - [The Great Lambda Migration to Kubernetes Jobs](https://www.infoq.com/articles/lambda-migration-k8s-jobs/) (InfoQ, 2023)
 - [Building with Open Policy Agent (OPA)](https://dzone.com/articles/building-with-open-policy-agent-opa-for-better-pol) (DevZone, 2022)
 - [Various technical articles on Medium](https://liavyona09.medium.com/)
