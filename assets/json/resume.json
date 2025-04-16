@@ -89,6 +89,13 @@
   ],
   "publications": [
     {
+      "name": "MCP Servers — And How to Build Them With Go",
+      "publisher": "Medium",
+      "releaseDate": "2023-04-15",
+      "url": "https://liavyona09.medium.com/mcp-servers-and-how-to-build-them-with-go-11f9aafd8131",
+      "summary": "As AI applications grow more complex, the need for context-aware interactions becomes critical. This post introduces Model Context Protocol (MCP) servers — a middleware layer that enriches model requests with user, session, and tenant context. We explore the motivations behind MCP, its core responsibilities, and why Go is a great fit for building one. The post includes a minimal example of an MCP server implementation in Go to demonstrate the concept in action."
+    },
+    {
       "name": "The Great Lambda Migration to Kubernetes Jobs—A Journey in Three Parts",
       "publisher": "InfoQ",
       "releaseDate": "2023-03-15",
