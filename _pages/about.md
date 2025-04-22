@@ -26,15 +26,15 @@ Before Firefly, I worked at [CyberArk](https://cyberark.com/) on the OSS applica
 ## Publications & Speaking
 
 I regularly share my technical insights through articles and conference talks:
-- Speaker at KubeCon and CloudNativeCon Europe 2023
+- Speaker at [KubeCon and CloudNativeCon Europe 2023](https://www.youtube.com/watch?v=dLOXMEOkLHM)
 - Published articles in InfoQ, DevZone, and Medium on topics including:
   - Kubernetes migration strategies
   - Policy as Code implementation
   - Cloud architecture and DevOps practices
 
 ## Certifications
-- Certified Kubernetes Administrator (CKA)
-- KubeCon and CloudNativeCon Europe 2023 Speaker
+- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
+- [KubeCon and CloudNativeCon Europe 2023 Speaker](https://www.credly.com/org/the-linux-foundation/badge/speaker-kubecon-cloudnativecon-europe-2023)
 
 ## Skills & Expertise
 - Software Engineering & Architecture
